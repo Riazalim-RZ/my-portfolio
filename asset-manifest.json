@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7013d9b7.css",
+    "main.js": "/my-portfolio/static/js/main.4d8e2c67.js",
+    "static/media/portfolio7.jpg": "/my-portfolio/static/media/portfolio7.419237bf2669dc9254ae.jpg",
+    "static/media/portfolio8.jpg": "/my-portfolio/static/media/portfolio8.f6280c9f59eb4319c268.jpg",
+    "static/media/RiazAlim2-removebg-preview.png": "/my-portfolio/static/media/RiazAlim2-removebg-preview.ea0117823367d31f7d3b.png",
+    "static/media/RiazAlim1.jpeg": "/my-portfolio/static/media/RiazAlim1.9bd2640d08903805c3f6.jpeg",
+    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.65b41cc6faa4cc81485c.jpg",
+    "static/media/portfolio4.jpg": "/my-portfolio/static/media/portfolio4.44b711833caa848f02f2.jpg",
+    "static/media/portfolio1.jpg": "/my-portfolio/static/media/portfolio1.e31ad41e748c636ed2f3.jpg",
+    "static/media/portfolio5.jpg": "/my-portfolio/static/media/portfolio5.51b954a5c875c6781fdb.jpg",
+    "static/media/portfolio9.jpg": "/my-portfolio/static/media/portfolio9.e171351a91fee75a4e48.jpg",
+    "static/media/RiazAlim-iOS-Developer.pdf": "/my-portfolio/static/media/RiazAlim-iOS-Developer.fc774fe3933caeb5cd2c.pdf",
+    "static/media/portfolio3.webp": "/my-portfolio/static/media/portfolio3.57ffd74b1cb5b838c4aa.webp",
+    "static/media/portfolio12.webp": "/my-portfolio/static/media/portfolio12.60c4b9a6e9a4d66c0f93.webp",
+    "static/media/portfolio11.webp": "/my-portfolio/static/media/portfolio11.378f5fba987bc7716180.webp",
+    "static/media/portfolio2.webp": "/my-portfolio/static/media/portfolio2.4b07cdb56e6590ebf055.webp",
+    "static/media/portfolio10.webp": "/my-portfolio/static/media/portfolio10.a34dbe8af8b411bf0a29.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.7013d9b7.css.map": "/my-portfolio/static/css/main.7013d9b7.css.map",
+    "main.4d8e2c67.js.map": "/my-portfolio/static/js/main.4d8e2c67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7013d9b7.css",
+    "static/js/main.4d8e2c67.js"
+  ]
+}
